@@ -1,2 +1,14 @@
-# learning
-This repository is a personal learning space where I experiment with small projects, libraries, and concepts while learning programming and software development. The focus is learning.
+# QR Code Generator
+
+A simple Python program that converts a URL into a QR code.
+
+## Requirements
+
+- Python 3
+
+## Installation
+
+Install the required library:
+
+```bash
+pip install qrcode
