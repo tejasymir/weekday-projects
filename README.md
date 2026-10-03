@@ -4,7 +4,7 @@ A collection of random projects, experiments, tools and ideas, each built with t
 
 ## Projects
 
-### 01 — QR Code Generator
+### 1. QR Code Generator
 Turn any URL into a QR code.
 
 **Built with:** Python
