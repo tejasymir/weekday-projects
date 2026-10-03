@@ -1,14 +1,12 @@
-# QR Code Generator
+# Weekday Projects
 
-A simple Python program that converts a URL into a QR code.
+A collection of random projects, experiments, tools and ideas, each built with the goal of learning something new and useful
 
-## Requirements
+## Projects
 
-- Python 3
+### 01 — QR Code Generator
+Turn any URL into a QR code.
 
-## Installation
+**Built with:** Python
 
-Install the required library:
-
-```bash
-pip install qrcode
+---
