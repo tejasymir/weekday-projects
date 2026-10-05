@@ -12,3 +12,10 @@ Built with: Python3
 Requires: qrcode library
 
 ---
+
+### 2. Wikipedia Searcher (!UNRESOLVED ISSUES)
+Based on the User's requirements, searches Wikipedia
+
+Built With: Python3
+
+Requires: wikipedia library
