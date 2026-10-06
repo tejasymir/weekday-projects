@@ -20,7 +20,10 @@ Built With: Python3
 
 Requires: wikipedia library
 
+---
+
 ### 3. Password-Strength Checker
-Always took a pride in my own "SUPER HARD" password, until I tried this on it
+
+Always thought my password was hard as hell, then I ran it through this
 
 Built With: C++
