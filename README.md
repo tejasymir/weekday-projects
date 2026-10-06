@@ -24,6 +24,6 @@ Requires: wikipedia library
 
 ### 3. Password-Strength Checker
 
-Always thought my password was hard as hell, then I ran it through this
+Always thought my password was super good, then I ran it through this 😭
 
 Built With: C++
