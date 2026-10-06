@@ -19,3 +19,8 @@ Based on the User's requirements, searches Wikipedia
 Built With: Python3
 
 Requires: wikipedia library
+
+### 3. Password-Strength Checker
+Always took a pride in my own "SUPER HARD" password, until I tried this on it
+
+Built With: C++
