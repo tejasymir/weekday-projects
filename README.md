@@ -24,6 +24,15 @@ Requires: wikipedia library
 
 ### 3. Password-Strength Checker
 
-Always thought my password was super good, then I ran it through this 😭
+Always thought my password was super good
+
+Built With: C++
+
+---
+
+
+### 4. Windows Control Panel
+
+Wrote my own control panel in C++ to run in the terminal to control windows
 
 Built With: C++
